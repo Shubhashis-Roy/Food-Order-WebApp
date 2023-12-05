@@ -1,0 +1,9 @@
+# dependencies
+/node_modules
+
+# Build
+/dist
+/.parcel-cache
+
+# Test cases
+/coverage
