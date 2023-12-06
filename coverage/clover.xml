@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1696158659131" clover="3.2.0">
+  <project timestamp="1696158659131" name="All files">
+    <metrics statements="109" coveredstatements="103" conditionals="30" coveredconditionals="24" methods="45" coveredmethods="40" elements="184" coveredelements="167" complexity="0" loc="109" ncloc="109" packages="3" files="17" classes="17"/>
+    <package name="components">
+      <metrics statements="58" coveredstatements="56" conditionals="20" coveredconditionals="15" methods="26" coveredmethods="25"/>
+      <file name="Body.js" path="/home/subha/Code/Namaste_React/Episode13/React/src/components/Body.js">
+        <metrics statements="28" coveredstatements="26" conditionals="6" coveredconditionals="5" methods="12" coveredmethods="11"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="10" type="stmt"/>
+        <line num="12" count="10" type="stmt"/>
+        <line num="13" count="10" type="stmt"/>
+        <line num="15" count="10" type="stmt"/>
+        <line num="17" count="10" type="stmt"/>
+        <line num="18" count="3" type="stmt"/>
+        <line num="21" count="10" type="stmt"/>
+        <line num="22" count="3" type="stmt"/>
+        <line num="23" count="3" type="stmt"/>
+        <line num="25" count="3" type="stmt"/>
+        <line num="26" count="3" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="32" count="10" type="stmt"/>
+        <line num="34" count="10" type="cond" truecount="1" falsecount="1"/>
+        <line num="36" count="10" type="stmt"/>
+        <line num="40" count="10" type="cond" truecount="2" falsecount="0"/>
+        <line num="52" count="1" type="stmt"/>
+        <line num="58" count="1" type="stmt"/>
+        <line num="59" count="20" type="stmt"/>
+        <line num="61" count="1" type="stmt"/>
+        <line num="72" count="20" type="stmt"/>
+        <line num="74" count="1" type="stmt"/>
+        <line num="84" count="1" type="stmt"/>
+        <line num="85" count="20" type="stmt"/>
+        <line num="87" count="1" type="stmt"/>
+        <line num="98" count="0" type="stmt"/>
+        <line num="105" count="99" type="stmt"/>
+      </file>
+      <file name="Header.js" path="/home/subha/Code/Namaste_React/Episode13/React/src/components/Header.js">
+        <metrics statements="7" coveredstatements="7" conditionals="4" coveredconditionals="2" methods="3" coveredmethods="3"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="8" type="stmt"/>
+        <line num="10" count="8" type="stmt"/>
+        <line num="12" count="8" type="stmt"/>
+        <line num="15" count="15" type="stmt"/>
+        <line num="17" count="8" type="stmt"/>
+        <line num="48" count="1" type="cond" truecount="1" falsecount="1"/>
+      </file>
+      <file name="ItemList.js" path="/home/subha/Code/Namaste_React/Episode13/React/src/components/ItemList.js">
+        <metrics statements="7" coveredstatements="7" conditionals="4" coveredconditionals="2" methods="4" coveredmethods="4"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="7" type="stmt"/>
+        <line num="8" count="7" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="13" count="7" type="stmt"/>
+        <line num="17" count="63" type="stmt"/>
+        <line num="40" count="2" type="stmt"/>
+      </file>
+      <file name="RestaurantCard.js" path="/home/subha/Code/Namaste_React/Episode13/React/src/components/RestaurantCard.js">
+        <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="101" type="stmt"/>
+        <line num="13" count="101" type="stmt"/>
+        <line num="15" count="101" type="stmt"/>
+        <line num="40" count="2" type="stmt"/>
+        <line num="41" count="11" type="stmt"/>
+        <line num="42" count="56" type="stmt"/>
+      </file>
+      <file name="ResturantCategory.js" path="/home/subha/Code/Namaste_React/Episode13/React/src/components/ResturantCategory.js">
+        <metrics statements="5" coveredstatements="5" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="10" type="stmt"/>
+        <line num="7" count="10" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="12" count="10" type="stmt"/>
+      </file>
+      <file name="Shimmer.js" path="/home/subha/Code/Namaste_React/Episode13/React/src/components/Shimmer.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+      </file>
+      <file name="sum.js" path="/home/subha/Code/Namaste_React/Episode13/React/src/components/sum.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="pages">
+      <metrics statements="22" coveredstatements="21" conditionals="10" coveredconditionals="9" methods="9" coveredmethods="8"/>
+      <file name="Cart.js" path="/home/subha/Code/Namaste_React/Episode13/React/src/pages/Cart.js">
+        <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="10" type="stmt"/>
+        <line num="8" count="5" type="stmt"/>
+        <line num="9" count="5" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="13" count="5" type="stmt"/>
+      </file>
+      <file name="Contact.js" path="/home/subha/Code/Namaste_React/Episode13/React/src/pages/Contact.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="4" type="stmt"/>
+      </file>
+      <file name="RestaurantManu.js" path="/home/subha/Code/Namaste_React/Episode13/React/src/pages/RestaurantManu.js">
+        <metrics statements="14" coveredstatements="13" conditionals="8" coveredconditionals="7" methods="5" coveredmethods="4"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="5" type="stmt"/>
+        <line num="10" count="4" type="stmt"/>
+        <line num="12" count="4" type="stmt"/>
+        <line num="13" count="4" type="stmt"/>
+        <line num="16" count="4" type="stmt"/>
+        <line num="18" count="4" type="cond" truecount="4" falsecount="0"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="22" count="20" type="stmt"/>
+        <line num="29" count="2" type="stmt"/>
+        <line num="31" count="2" type="stmt"/>
+        <line num="40" count="4" type="stmt"/>
+        <line num="65" count="8" type="stmt"/>
+        <line num="70" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="utills">
+      <metrics statements="29" coveredstatements="26" conditionals="0" coveredconditionals="0" methods="10" coveredmethods="7"/>
+      <file name="UserContext.js" path="/home/subha/Code/Namaste_React/Episode13/React/src/utills/UserContext.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="3" type="stmt"/>
+      </file>
+      <file name="appStore.js" path="/home/subha/Code/Namaste_React/Episode13/React/src/utills/appStore.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="4" count="2" type="stmt"/>
+      </file>
+      <file name="cartSlice.js" path="/home/subha/Code/Namaste_React/Episode13/React/src/utills/cartSlice.js">
+        <metrics statements="5" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="23" count="2" type="stmt"/>
+      </file>
+      <file name="constants.js" path="/home/subha/Code/Namaste_React/Episode13/React/src/utills/constants.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="2" count="3" type="stmt"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="13" count="3" type="stmt"/>
+        <line num="15" count="3" type="stmt"/>
+      </file>
+      <file name="mockData.js" path="/home/subha/Code/Namaste_React/Episode13/React/src/utills/mockData.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+      </file>
+      <file name="useOnlineStatus.js" path="/home/subha/Code/Namaste_React/Episode13/React/src/utills/useOnlineStatus.js">
+        <metrics statements="8" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="2"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="4" count="18" type="stmt"/>
+        <line num="6" count="18" type="stmt"/>
+        <line num="7" count="7" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="11" count="7" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="16" count="18" type="stmt"/>
+      </file>
+      <file name="useRestrauntMenu.js" path="/home/subha/Code/Namaste_React/Episode13/React/src/utills/useRestrauntMenu.js">
+        <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="4" type="stmt"/>
+        <line num="7" count="4" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="11" count="4" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="17" count="4" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>

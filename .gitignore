@@ -4,6 +4,3 @@
 # Build
 /dist
 /.parcel-cache
-
-# Test cases
-/coverage
