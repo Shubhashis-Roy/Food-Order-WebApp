@@ -10,7 +10,7 @@
 
 - I developed a WebApp it can handle large scale user to achieve this I Used lazy loading concept, and aslo I write test case with 80% coverage.
 
-<a href="file:///home/subha/Code/Project/Food%20Order%20WebApp/Dev/coverage/lcov-report/pages/index.html" >View Test Case coverage </a>
+<h3> <a href= "file:///home/subha/Code/Project/Food%20Order%20WebApp/Dev/coverage/lcov-report/pages/index.html" >View Test Case coverage</a> </h3>
 
 - Implemented Cart page using Redux Store, also implemented Search Bar, Filter Button, and Google Authentication.
 
